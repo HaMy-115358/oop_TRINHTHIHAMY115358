@@ -51,3 +51,4 @@ public:
     return (s == "car" || s == "motorcycle" || s == "bicycle");
    }
 }
+
